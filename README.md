@@ -1,5 +1,5 @@
 
-<img align="right" src="https://raw.githubusercontent.com/tgmarinho/tgmarinho/main/keep_code.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/tgmarinho/tgmarinho/main/keep_code.png?token=AAC43J356Z6HSRPJTEAEZIK7QTOWO" width="350"/>
 
 <a href="https://www.linkedin.com/in/tgmarinho">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Thiago%2Marinho-blue"/>
