@@ -8,7 +8,7 @@
 
 ## Thiago Marinho 👋 
 
-- 🚀 &nbsp; Trabalhando na [Rocketseat](https://rocketseat.com.br/)
+- 🚀 &nbsp; Trabalhando na [Rocketseat](https://blog.rocketseat.com.br/)
 - 💻 &nbsp; Node, ReactJS, React Native, Typescript
-- ✨ &nbsp; Aprendizado é contínuo, sempre haverá um próximo nível!🚀
+- ✨ &nbsp; O aprendizado é contínuo e sempre haverá um próximo nível!🚀
 
