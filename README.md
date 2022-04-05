@@ -14,8 +14,27 @@
  
   ##
  
+ <div>
+    <p align="left" style="background:yellow">
+      <a href="https://codepen.io/tgmarinho" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=codepen" alt="codepen"/>
+      </a>
+      <a href="https://twitter.com/tgmarinho" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=twitter" alt="twitter"/>  
+      </a>
+      <a href="https://linkedin.com/in/tgmarinho" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+      </a>
+      <a href="https://instagram.com/tgmarinho" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=instagram" alt="instagram"/>
+      </a>
+      <a href="https://youtube.com/tgmarinho" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=youtube" alt="youtube"/>
+      </a>
+  </p>
+ </div>
+ 
 <div> 
-  <a href="https://www.linkedin.com/in/tgmarinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/tgmarinho/tgmarinho/blob/main/github-contribution-grid-snake.svg)
  
