@@ -1,4 +1,4 @@
-## Thiago Marinho 👋  <p align="left" style="background:yellow">
+ <p align="left" style="background:yellow"> ## Thiago Marinho 👋 
       <a href="https://codepen.io/tgmarinho" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=codepen" alt="codepen"/>
       </a>
