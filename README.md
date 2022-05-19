@@ -34,12 +34,6 @@
  
   ##
  
- 
-<div> 
- 
-  ![Snake animation](https://github.com/tgmarinho/tgmarinho/blob/main/github-contribution-grid-snake.svg)
- 
- 
-</div>
+
   
   🚀
