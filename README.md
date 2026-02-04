@@ -1,6 +1,6 @@
 
  <h3> Thiago Marinho 💻 </h3>
- <h4>Senior Software Engineer at Popstand | React Specialist</h4>
+ <h4>AI Product Engineer | 10+ Years Full-Stack Developer | Building AI-Powered Products | TypeScript, React, React Native, Node.js | LLMs, RAG, AI Agents</h4>
    
  <p align="left" style="background:yellow">
       <a href="https://codepen.io/tgmarinho" target="_blank">
@@ -21,11 +21,38 @@
   </p>
       </a>
  
-👋🏻 Hey there! I'm a software engineer who's really into TypeScript/JavaScript, React, Next.js, GraphQL and everything else that comes with it like React Native, Node.js. 
-I'm always on the lookout for the latest tools and tech in the industry, so I can keep delivering awesome, top-notch solutions that go beyond what's expected.
+👋🏻 AI Product Engineer | Full-Stack Engineer → AI
 
-With two years of hands-on experience in the Web3 and NFT marketplace domain, I've been actively involved in developing projects on top of the WAX and Ethereum platforms. My expertise extends to building robust indexers, SDKs, frontend apps, and APIs, showcasing my comprehensive understanding of this rapidly evolving field.
+I build products from zero to production, focused on intelligent automations powered by AI Agents and RAG.
 
-I actively participate in open-source projects, engaging in discussions to enhance ongoing tasks and contributing to the community by submitting pull requests. I'm always eager to collaborate and help drive improvements in these collaborative environments.
+I bring 10+ years of experience building production systems across industries such as healthcare, Web3, NFT marketplaces, government administrative systems, and event platforms. I take end-to-end ownership — from product vision to architecture and deployment.
+
+Today, I use AI tools daily to accelerate my development workflow, ship faster, and maintain high code quality — with strong focus on priority management, task organization, product thinking, and user experience. My work is centered on building intelligent applications and exploring how LLMs can fundamentally improve real user experiences.
+
+What I’ve built
+
+→ A TypeScript SDK for Escrow process
+→ Blockchain indexers processing thousands of transactions in real time
+→ A healthcare platform serving thousands of users with multiple roles (API, web, mobile)
+→ NFT marketplaces on Ethereum and WAX
+
+My stack
+
+TypeScript • React • React Native • Next.js • Node.js • PostgreSQL • MongoDB
+
+Focus on AI
+
+→ LLM integration & Prompt Engineering
+→ RAG systems & vector databases
+→ AI Agents & automation
+→ AI-powered product features
+
+Why I can help with AI
+
+Many AI enthusiasts can build impressive prototypes, but struggle to take them to production, scale them, and keep them running. I bring 10 years of experience shipping, scaling, and maintaining real-world products, now applied directly to AI-driven applications.
+
+🔗 tgmarinhopro.com
+💻 github.com/tgmarinho
+🌍 Open to opportunities as an AI Product Engineer or Full-Stack AI Engineer — global remote
   
   🚀 😃
