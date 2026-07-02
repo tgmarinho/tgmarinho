@@ -31,7 +31,7 @@ I am strongest in roles where product, customer context, engineering, and AI sit
 - Founding Engineer
 - Senior/Lead Full-Stack Engineer with product ownership
 
-I use agent orchestration to increase engineering leverage: Conductor workspaces, Cursor, Codex, MCP servers, custom skills, structured specs, and harnesses that coordinate agents to build with speed, discipline, and quality.
+I use agent orchestration to increase engineering leverage: Claude Code, Cursor, Codex, custom skills, structured specs, and harnesses that coordinate agents to build with speed, discipline, and quality.
 
 ---
 
