@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Thiago Marinho 👋</h1>
 
 <p align="center">
-  <b>AI Product Engineer</b> · Senior Full-Stack Builder · Founder @ iTOP
+  <b>AI Product Engineer</b> · Senior Full-Stack Engineer · Builder · Founder @ iTOP
   <br>
   <i>I turn ambiguous user pain into shipped software, using AI as leverage.</i>
+  <br>
+  <i>I build software users love to use.</i>
 </p>
 
 <p align="center">
@@ -21,12 +23,12 @@
 
 I'm an AI Product Engineer from Brazil with 12+ years building production systems across healthcare, fintech, Web3, event platforms, and administrative systems.
 
-My strongest area is applied product engineering: understanding ambiguous user problems, designing the workflow, building the full-stack solution, and shipping it to production. I am not trying to be a low-level ML researcher. I use modern engineering and AI tools to solve real business problems end to end.
+My strongest area is applied product engineering: understanding ambiguous user problems, designing the workflow, building the full-stack solution, and shipping it to production. I use modern engineering and AI tools to solve real business problems end to end.
 
-Today I work through agent orchestration: Conductor workspaces, Cursor, Codex, MCP servers, custom skills, structured specs, and harnesses that coordinate agents to build with speed, engineering discipline, and quality. The goal is not to make demos. The goal is to ship software that keeps working after real users show up.
+Today I work through agent orchestration: Claude Code, Cursor, Codex, custom skills, structured specs, and harnesses that coordinate agents to build with speed, engineering discipline, and quality. The goal is not to make demos. The goal is to ship software that keeps working after real users show up.
 
 - 🔭 Working on: AI-powered SaaS, agentic workflows, RAG systems, and full-stack products
-- 💬 Ask me about: TypeScript, Next.js, React, React Native, Node.js, PostgreSQL, MongoDB, Web3, product engineering, and agent-orchestrated development
+- 💬 Ask me about: building software users love to use, AI product engineering, full-stack architecture, and agent-orchestrated development
 - 🌍 Open to: AI Product Engineer, Forward-Deployed Engineer, Solutions Engineer, Founding Engineer, and Senior/Lead Full-Stack roles
 
 <p align="center">
@@ -52,11 +54,21 @@ Today I work through agent orchestration: Conductor workspaces, Cursor, Codex, M
 
 ---
 
+### 📦 Featured repositories
+
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="/github-stats.svg" alt="Featured repositories and GitHub metrics" width="100%">
+  </a>
+</p>
+
+---
+
 ### How I work
 
 - **Customer-first engineering**: start from the pain, not the framework.
 - **Spec-driven execution**: turn discovery into clear specs, workflows, and acceptance criteria.
-- **Agent-orchestrated delivery**: use Conductor, Cursor, Codex, MCP, custom skills, and harnesses to coordinate agents, engineer solutions, and ship faster with quality.
+- **Agent-orchestrated delivery**: use Claude Code, Cursor, Codex, MCP, custom skills, and harnesses to coordinate agents, engineer solutions, and ship faster with quality.
 - **Full-stack ownership**: architecture, frontend, backend, mobile, data, payments, deployment, and production support.
 - **Pragmatic product sense**: ship the useful version, measure what changed, and improve from real usage.
 
@@ -110,21 +122,6 @@ Today I work through agent orchestration: Conductor workspaces, Cursor, Codex, M
 I have worked across support, government systems, freelancing, technical writing, international consulting, Web3, healthcare, and now my own SaaS product.
 
 The pattern is consistent: I enter messy operational context, understand the people and constraints, design the system, write the code, and ship something useful.
-
----
-
-### GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tgmarinho&show_icons=true&hide_border=true&theme=transparent" alt="Thiago Marinho GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgmarinho&layout=compact&hide_border=true&theme=transparent" alt="Thiago Marinho top languages">
-</p>
-
-<p align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
-</p>
-
----
 
 ### Let's connect
 

@@ -1,0 +1,34 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: tgmarinho
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Campo_Grande
+          plugin_repositories: yes
+          plugin_repositories_featured: >-
+            tgmarinho/itop-lgnd,
+            tgmarinho/tgmarinho-ai-blog,
+            tgmarinho/pi-tg,
+            tgmarinho/canetaco,
+            tgmarinho/agenda-editor,
+            tgmarinho/dale-carnegie-principles
+          plugin_repositories_order: featured
