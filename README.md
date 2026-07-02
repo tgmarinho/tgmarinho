@@ -56,11 +56,25 @@ Today I work through agent orchestration: Claude Code, Cursor, Codex, custom ski
 
 ### 📦 Featured repositories
 
+| Repository | Stars | What it is |
+|---|---|---|
+| [itop-lgnd](https://github.com/tgmarinho/itop-lgnd) | ![stars](https://img.shields.io/github/stars/tgmarinho/itop-lgnd?style=flat-square&label=%E2%98%85&color=2563EB) | Full-stack SaaS for large-scale events: registration, payments, check-in, and analytics |
+| [tgmarinho-ai-blog](https://github.com/tgmarinho/tgmarinho-ai-blog) | ![stars](https://img.shields.io/github/stars/tgmarinho/tgmarinho-ai-blog?style=flat-square&label=%E2%98%85&color=2563EB) | Bilingual personal website and technical blog built with Next.js, TypeScript, and Velite |
+| [pi-tg](https://github.com/tgmarinho/pi-tg) | ![stars](https://img.shields.io/github/stars/tgmarinho/pi-tg?style=flat-square&label=%E2%98%85&color=2563EB) | Open-source AI coding agent toolkit and TypeScript monorepo |
+| [canetaco](https://github.com/tgmarinho/canetaco) | ![stars](https://img.shields.io/github/stars/tgmarinho/canetaco?style=flat-square&label=%E2%98%85&color=2563EB) | Brazilian electronic signature SaaS with WhatsApp workflows |
+
+<sub>More repositories and proof links in the [full portfolio](./PORTFOLIO.md).</sub>
+
+---
+
+### 📊 GitHub stats
+
 <p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="/github-stats.svg" alt="Featured repositories and GitHub metrics" width="100%">
-  </a>
+  <img src="./github-metrics.svg" alt="GitHub metrics">
+  <img src="./github-metrics-languages.svg" alt="Top languages">
 </p>
+
+<sub>Auto-generated daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — static SVG, no flaky third-party calls.</sub>
 
 ---
 
